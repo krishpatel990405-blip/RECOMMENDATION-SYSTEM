@@ -26,3 +26,9 @@ The recommendation engine is then implemented using User-Based Collaborative Fil
 To evaluate the performance of the recommendation system, the Root Mean Square Error (RMSE) metric is calculated. RMSE provides a measure of prediction accuracy by comparing actual ratings with predicted values. Although a simple baseline approach is used in this project, the evaluation demonstrates the importance of measuring recommendation quality and provides a foundation for future improvements.
 
 Overall, this project successfully demonstrates the implementation of a User-Based Collaborative Filtering Recommendation System using machine learning techniques. Through data preprocessing, similarity computation, recommendation generation, visualization, and evaluation, the project showcases how personalized movie recommendations can be created from user rating data. The developed system serves as a practical introduction to recommendation systems and provides a strong foundation for implementing more advanced approaches such as Item-Based Collaborative Filtering, Matrix Factorization, and Hybrid Recommendation Systems in future work.
+
+
+# OUTPUT :
+<img width="800" height="500" alt="Image" src="https://github.com/user-attachments/assets/c3972bf2-c2d2-4145-ac11-fdc850fd600d" />
+<img width="1000" height="500" alt="Image" src="https://github.com/user-attachments/assets/0a445c79-bfea-4241-9cd6-4e2974411073" />
+<img width="1000" height="800" alt="Image" src="https://github.com/user-attachments/assets/d642cecb-98a9-4e97-97dc-a61c1e5f1a3b" />
