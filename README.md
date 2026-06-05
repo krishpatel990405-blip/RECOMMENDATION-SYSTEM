@@ -1,5 +1,18 @@
 # RECOMMENDATION-SYSTEM
 
+*COMPANY* : CODTECH IT SOLUTIONS 
+
+*NAME* : PATEL KRISHKUMAR VASANTBHAI
+
+*INTERN ID* : CTIS9788
+
+*DOMAIN* : MACHINE LEARNING 
+
+*DURATION* : 4 WEEKS
+
+*MENTOR* : NEELA SANTOS
+
+
 This project focuses on building a Movie Recommendation System using User-Based Collaborative Filtering on the MovieLens dataset. Recommendation systems play a crucial role in modern digital platforms by helping users discover relevant content based on their interests and past interactions. The primary objective of this project is to recommend movies to users by identifying other users with similar rating patterns and leveraging their preferences to generate personalized suggestions.
 
 The project begins with loading and exploring the MovieLens ratings dataset. Basic exploratory data analysis is performed to understand the number of ratings, users, and movies available in the dataset. This step provides insights into the data distribution and helps identify the overall structure of the dataset. A rating distribution graph is also created to visualize how users rate movies, enabling a better understanding of user behavior and rating trends.
